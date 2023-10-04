@@ -1,2 +1,9 @@
 UI/UX Project-Links:
 
+GYB-Website UI- https://www.figma.com/file/2BPGqfuEQg53HMbLAhNLpq/GYB-UI?type=design&node-id=0%3A1&mode=design&t=fhUyYqQIxBJfsNn2-1
+
+Cura-app UI- https://www.figma.com/file/ZjBAHYhKDAxwWaQPwDHBK1/Cura-New?type=design&node-id=0%3A1&mode=design&t=niEZlcD9HCrejgvA-1
+
+News-app UI - https://www.figma.com/file/pygELbh1lNUJd6hvAd5svw/news-app?type=design&node-id=248%3A3285&mode=design&t=DHT41wNbc94sXknc-1
+
+Culture-fest website - https://www.figma.com/file/Z8faiwvARtqt6ApU8jBm5C/TCF?type=design&node-id=0%3A1&mode=design&t=9xsVlTxJ3tiOIsoY-1
